@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danieljonesdev
+- 👋 Hi, I’m Daniel.
 - 👀 I’m interested in JavaScript and PHP related stuff.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on JavaScript/TypeScript projects.
